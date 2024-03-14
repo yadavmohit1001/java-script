@@ -19,3 +19,19 @@ ans-
 (vi) <	less than
 (vii) >= greater than or equal to
 (viii) <=  less than or equal to
+
+
+ ------------------------------------------task2-------------------------------------------
+ let a = 50
+let b = "45"
+console.log(a + b)
+console.log(a - b)
+console.log(a * b)
+console.log(a / b)
+console.log(a % b)
+console.log(a = b)
+console.log(a == b)
+console.log(a === b)
+console.log(a !==b)
+console.log(a !== b)
+
